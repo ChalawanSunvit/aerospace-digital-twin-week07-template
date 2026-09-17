@@ -3,8 +3,6 @@
   "readiness": {
     "ready": false,
     "missing": [
-      "assumptions",
-      "model",
       "prediction",
       "verification",
       "claim",
@@ -15,7 +13,7 @@
   },
   "record": {
     "id": "4c7e1154-d0a7-4792-b26e-d929f935f555",
-    "revision": "421",
+    "revision": "771",
     "model": {
       "moduleId": "controls",
       "modelId": "week07-student-model",
@@ -47,7 +45,7 @@
       "assumptions": {
         "suppliedBy": "student",
         "locked": false,
-        "text": ""
+        "text": "Cmδ is linear in our range of calculation compare to alpha"
       },
       "inputs": {
         "suppliedBy": "instructor",
@@ -57,7 +55,7 @@
       "model": {
         "suppliedBy": "student",
         "locked": false,
-        "text": ""
+        "text": "Demand = Iy*target - competing\nq∞ = 0.5*density*V^2\nMoment = Cmδ * q∞ * S * chord\n\n\nDemand will be calculated\nall known"
       },
       "prediction": {
         "suppliedBy": "student",
