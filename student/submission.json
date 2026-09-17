@@ -13,7 +13,7 @@
   },
   "record": {
     "id": "4c7e1154-d0a7-4792-b26e-d929f935f555",
-    "revision": "771",
+    "revision": "1027",
     "model": {
       "moduleId": "controls",
       "modelId": "week07-student-model",
@@ -40,7 +40,7 @@
       "physics": {
         "suppliedBy": "student",
         "locked": false,
-        "text": "Let Cg be the pivot point.\nthe downward force (-) aft of Cg is equal to upward force(+) front of Cg because both provide torque in the same direction (+) in respect to y axis. "
+        "text": "Let Cg be the pivot point.\nthe downward force (-) aft of Cg is equal to upward force(+) front of Cg because both provide torque in the same direction (+) in respect to y axis.\n\ncan also use another approach,\ndeltaCm=Cm_alpha*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up"
       },
       "assumptions": {
         "suppliedBy": "student",

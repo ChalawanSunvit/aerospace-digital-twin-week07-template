@@ -8,7 +8,7 @@ Answers and recorded model results from `submission.json`. This document does no
 
 - Record ID: 4c7e1154-d0a7-4792-b26e-d929f935f555
 
-- Record revision: 771
+- Record revision: 1027
 
 - Model hash: fnv1a-adee3cf8
 
@@ -36,7 +36,10 @@ Iy=5000 kg·m²; target=+0.12 rad/s²; competing=-750 N-m; density=1.225 kg/m³;
 **Student response:**
 ```
 Let Cg be the pivot point.
-the downward force (-) aft of Cg is equal to upward force(+) front of Cg because both provide torque in the same direction (+) in respect to y axis. 
+the downward force (-) aft of Cg is equal to upward force(+) front of Cg because both provide torque in the same direction (+) in respect to y axis.
+
+can also use another approach,
+deltaCm=Cm_alpha*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up
 ```
 
 ### assumptions
