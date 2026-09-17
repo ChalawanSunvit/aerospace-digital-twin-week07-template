@@ -8,7 +8,7 @@ Answers and recorded model results from `submission.json`. This document does no
 
 - Record ID: 4c7e1154-d0a7-4792-b26e-d929f935f555
 
-- Record revision: 1028
+- Record revision: 1103
 
 - Model hash: fnv1a-adee3cf8
 
@@ -69,7 +69,7 @@ all known
 
 **Student response:**
 ```
-deltaCm=Cm_alpha*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up
+Cm=delta_Cm*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up
 ```
 
 ### verification

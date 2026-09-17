@@ -12,7 +12,7 @@
   },
   "record": {
     "id": "4c7e1154-d0a7-4792-b26e-d929f935f555",
-    "revision": "1028",
+    "revision": "1103",
     "model": {
       "moduleId": "controls",
       "modelId": "week07-student-model",
@@ -59,7 +59,7 @@
       "prediction": {
         "suppliedBy": "student",
         "locked": false,
-        "text": "deltaCm=Cm_alpha*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up"
+        "text": "Cm=delta_Cm*alpha/delta_alpha . Since Cm_alpha/delta_alpha is negative and alpha is negative (-)*(-) =(+) = nose up"
       },
       "execution": {
         "suppliedBy": "automatic",
